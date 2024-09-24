@@ -4,7 +4,7 @@ Submitted by: **Danil Ermolin**
 
 This web app: **Displayes a list of trending games in 2024**
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
