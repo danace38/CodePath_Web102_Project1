@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![Web102Project1](https://github.com/user-attachments/assets/79214352-894b-493a-9d0c-0951e50b49c8)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
