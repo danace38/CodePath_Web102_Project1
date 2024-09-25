@@ -37,7 +37,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had to go over concepts on how to create components to make my webpage work.
 
 ## License
 
