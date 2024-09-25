@@ -1,11 +1,11 @@
 import React from "react";
-import gamePic from './assets/the-elder-scrolls-v--skyrim-v5--19.png'
+
 
 const Card = () => {
     return(
         <div className="Card">
-            <img src={gamePic}  alt = "game picture" ></img>
-            <h2>TES Skyrim</h2>
+            <img src = "https://www.freesvgdownload.com/wp-content/uploads/2021/10/minecraft.jpg"></img>
+            <h2>Minecraft</h2>
 
         </div>
     )
