@@ -1,13 +1,12 @@
 import React from "react";
 
-
-const Card = () => {
-    return(
-        <div className="Card">
-            <img src = "https://www.freesvgdownload.com/wp-content/uploads/2021/10/minecraft.jpg"></img>
-            <h2>Minecraft</h2>
-
-        </div>
+function Card({ title, description, link }) {
+    return (
+      <div className="card">
+        <h2>{title}</h2>
+        <a href={link} className="button">Learn More</a>
+      </div>
     )
-}
-export default Card;
+  }
+  
+  export default Card;
